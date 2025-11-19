@@ -1,0 +1,19 @@
+-- TRUNCATE: Elimina todos los registros de las tablas y,
+-- con RESTART IDENTITY, reinicia los contadores de las secuencias (autoincrement).
+-- Se debe hacer en el orden de dependencia (hijo a padre).
+TRUNCATE TABLE proyecto.ventas RESTART IDENTITY CASCADE;
+
+TRUNCATE TABLE proyecto.tasaciones RESTART IDENTITY CASCADE;
+
+TRUNCATE TABLE proyecto.clientes RESTART IDENTITY CASCADE;
+
+TRUNCATE TABLE proyecto.precios_oro RESTART IDENTITY CASCADE;
+
+-- Opcional: Verifica que no hay registros
+SELECT 'Ventas', COUNT(*) FROM proyecto.ventas
+UNION ALL
+SELECT 'Tasaciones', COUNT(*) FROM proyecto.tasaciones
+UNION ALL
+SELECT 'Clientes', COUNT(*) FROM proyecto.clientes
+UNION ALL
+SELECT 'Precios_Oro', COUNT(*) FROM proyecto.precios_oro;
