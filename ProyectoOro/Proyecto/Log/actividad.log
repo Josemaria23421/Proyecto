@@ -1,0 +1,30 @@
+2025-11-26 10:15:24 - INFO - Función ejecutada: graficoCantidadOroVendidaPorCliente
+2025-11-26 10:30:38 - INFO - Funcion ejecutada: totalVentasPorMes
+2025-11-26 10:30:43 - INFO - Funcion ejecutada: graficoCantidadOroVendidaPorCliente
+2025-11-26 10:31:27 - INFO - Funcion ejecutada: insertar_Cliente
+2025-11-26 10:31:27 - INFO - Funcion ejecutada: wrapper
+2025-11-26 10:43:48 - INFO - Funcion ejecutada: insertar_Cliente
+2025-11-26 10:43:48 - INFO - Funcion ejecutada: wrapper
+2025-11-26 10:46:53 - INFO - Funcion ejecutada: graficoCantidadOroVendidaPorCliente
+2025-11-26 10:47:11 - INFO - Funcion ejecutada: totalVentasPorMes
+2025-11-26 10:55:22 - INFO - Funcion ejecutada: insertar_Cliente
+2025-11-26 10:55:22 - INFO - Funcion ejecutada: wrapper
+2025-11-26 10:57:56 - INFO - Funcion ejecutada: graficoCantidadOroVendidaPorCliente
+2025-11-26 10:58:01 - INFO - Funcion ejecutada: totalVentasPorMes
+2025-11-26 10:58:08 - INFO - Funcion ejecutada: ventas_realizadas_en_un_mes
+2025-11-26 10:58:26 - INFO - Funcion ejecutada: ventas_realizadas_por_un_cliente
+2025-11-26 10:58:41 - INFO - Funcion ejecutada: ventas_realizadas_por_un_cliente | DNI: 72206026
+2025-11-26 10:58:51 - INFO - Funcion ejecutada: ventas_realizadas_por_un_cliente | DNI: 72206026
+2025-11-26 10:58:56 - INFO - Funcion ejecutada: tasaciones_no_aceptas
+2025-11-26 10:58:59 - INFO - Funcion ejecutada: cliente_con_mas_venta
+2025-11-26 10:59:03 - INFO - Funcion ejecutada: clientes_con_3_meses_sin_ventas
+2025-11-26 11:54:10 - INFO - Funcion ejecutada: cliente_con_mas_venta
+2025-11-26 11:59:22 - INFO - Funcion ejecutada: ventas_realizadas_por_un_cliente | DNI: "19507967"
+2025-11-26 11:59:34 - INFO - Funcion ejecutada: ventas_realizadas_por_un_cliente | DNI: 19507967
+2025-11-26 16:37:46 - INFO - Funcion ejecutada: insertar_Cliente
+2025-11-26 16:37:46 - INFO - Funcion ejecutada: wrapper
+2025-11-26 16:45:40 - INFO - Funcion ejecutada: insertar_Cliente
+2025-11-26 16:45:40 - INFO - Funcion ejecutada: wrapper
+2025-11-26 16:45:56 - INFO - Funcion ejecutada: totalVentasPorMes
+2025-11-26 16:46:07 - INFO - Funcion ejecutada: tasaciones_no_aceptas
+2025-11-26 16:46:14 - INFO - Funcion ejecutada: clientes_con_3_meses_sin_ventas
